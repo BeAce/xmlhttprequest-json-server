@@ -1,0 +1,56 @@
+{
+  "get": [
+    {
+      "id": 2,
+      "title": "json-1",
+      "author": "beace2"
+    },
+    {
+      "id": 3,
+      "title": "json-2",
+      "author": "beace3"
+    },
+    {
+      "title": 123,
+      "author": 123,
+      "id": 4
+    },
+    {
+      "title": 444,
+      "author": 444,
+      "id": 5
+    },
+    {
+      "title": 555,
+      "author": 555,
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "abc",
+      "author": "abc",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
